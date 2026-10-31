@@ -1,0 +1,14 @@
+build/
+*.o
+*.elf
+*.hex
+*.map
+*.exe
+demo
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+~$*.xlsx
+# AUTOSAR specifications are copyrighted - keep them on your PC, do not publish
+*.pdf
